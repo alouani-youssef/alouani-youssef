@@ -2,7 +2,7 @@
 ![My Photo ](https://miro.medium.com/fit/c/176/176/1*zMHxFUiKbWZRBInQa1EoSA.jpeg)
 
 ## personal Informations : 
--     I am Junior Developer From Morocco . and I am also a philosophy writer .
+-     I am Junior Developer From Morocco . and also I am a philosophy writer .
 -  I am Software Engineer . 
 -  I’m interested in BackEnd Engineering , DataStructures , Proxies , Package Mangers and Project Management .  
 -  I Believe in three Things Security Standers , Tests and  Data-Driven Vison  .
