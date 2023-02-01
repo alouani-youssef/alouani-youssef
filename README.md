@@ -23,27 +23,27 @@ I believe as Jordan Peterson use to said that writing is a high level skill it i
 
 ## Me and Softwares  : 
 
-- for me I believe that software engineering is a way of improving other domains . the great software engineers are those who use IT to improve other domains "DDD" and make others people lives easier . But the Real Software Engineers are those who Improve the IT world . because they love Computers instead of money those People who have a high abstract vision . I am a Boy in the middle of this way 
+- for me I believe that software engineering just a way of improving other domains . the great software engineers are those who use IT to improve other domains "DDD" and make others people lives easier . But the Real Software Engineers are those who improve the IT world By Defining new way of thinking. because they love Computers instead of money those People who have a high abstract vision . I am a Boy in the middle of this way 
 
 
-## Books That I Read .
-
-- Clean Code .
-- Compelte Code Second Edition .
+## Books That Inspired Me .
+- Philosphy of system design.
+- Hacking the art of exposition. 
+- Clean Code.
+- Compelte Code,Second Edition.
  
-## Technologies I use : 
-
-- RabbitMQ . 
-- NGINX .
-- Kafka .
-- Redis .
-- MongoDB .
-- PostgreSQL .
-- Neo4J .
-- NodeJS .
-- Go/Gin .
-- ReactJS .
-
+## APIs That I Use : 
+- RabbitMQ. 
+- NGINX.
+- Kafka.
+- Redis.
+- MongoDB.
+- PostgreSQL/MySQL.
+- Neo4J.
+- NodeJS.
+- Go/Gin.
+- ReactJS/ React-Native.
+- Python : Django/Flask.
 ## MicroServices Pattern I worked With : 
 - Saga .
 - Shared DataBase .
