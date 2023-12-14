@@ -2,7 +2,7 @@
 ![My Photo ](https://miro.medium.com/fit/c/176/176/1*zMHxFUiKbWZRBInQa1EoSA.jpeg)
 
 ## Personal Information: 
--                  I am a Software Engineer Based In Morocco.
+                 I am a Software Engineer Based In Morocco.
 -  I’m interested in BackEnd Engineering, DataStructures, Proxies, Package Managers, and Project Management.  
 -  I Believe in three Things Security standards, Tests, and  Data-Driven Vision.
 -  I’m currently a NodeJS/NestJS && Go/Gin Developer.
