@@ -16,11 +16,11 @@
  <a href="https://www.linkedin.com/in/alouani-youssef/">My Account On LinkedIn</a>
 
 
-## Software Engineer :
-- Software Engineering is a process. I think this is the most important thing that I learned until this moment. Building software is a complex process that needs a lot of thinking and design. without the right system design, you are going to lose time of business focus.
+## Software Engineering :
+ Software Engineering is a process. I think this is the most important thing that I learned until this moment. Building software is a complex process that needs a lot of thinking and design. without the right system design, you are going to lose time of business focus.
 
 ## Me and Software : 
-- for me, I believe that software engineering is just a way of improving other domains. great software engineers are those who use IT to improve other domains "DDD" and make other people's lives easier. But the Real Software Engineers are those who improve the IT world By Defining a new way of thinking. because they love Computers instead of money those People who have a high abstract vision. I am a Boy in the middle of this way 
+ For me, I believe that software engineering is just a way of improving other domains. great software engineers are those who use IT to improve other domains "DDD" and make other people's lives easier. But the Real Software Engineers are those who improve the IT world By Defining a new way of thinking. because they love Computers instead of money those People who have a high abstract vision. I am a Boy in the middle of this way 
 
 ## Me and Writing :
 I believe as Jordan Peterson used to say that writing is a high-level skill that pushes you to think more. picking the right words and the right description is not an easy thing. 
@@ -39,16 +39,16 @@ I believe as Jordan Peterson used to say that writing is a high-level skill that
 - MongoDB.
 - PostgreSQL/MySQL.
 - Neo4J.
-- NodeJS.
+- NodeJS/NestJS.
 - Go/Gin.
 - ReactJS/ React-Native.
-- Python : Django/Flask.
+- Python/Flask.
 ## MicroServices Pattern I Worked With : 
 - Saga.
 - Shared DataBase.
 - DataBase Per Service.
 ## Algorithm I know Well  : 
-- Recommendation Engines Algorithms .
+- Recommendation Engines Algorithms.
 - Task Dispatching.
 ## Data Structures I Worked Well With  : 
 - Bloom filter
