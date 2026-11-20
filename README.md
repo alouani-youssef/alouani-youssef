@@ -6,7 +6,7 @@
 
 I build AI that works on real data in production and keeps that data safe. I'm an AI engineer with a backend foundation: RAG and MCP over private data, Saudi-dialect speech, recommendations and privacy-aware assistants, evaluated before they ship.
 
-[Portfolio](https://youssefalouani.com) · [LinkedIn](https://www.linkedin.com/in/alouani-youssef) · [Medium](https://medium.com/@alouaniyoussef) · [Book a call](https://calendar.app.google/ru99z5cCrAbbu8LP9) · hello@youssefalouani.com
+[Portfolio](https://www.alouaniyoussef.com/) · [LinkedIn](https://www.linkedin.com/in/alouani-youssef) · [Medium](https://medium.com/@alouaniyoussef) · [Book a call](https://calendar.app.google/ru99z5cCrAbbu8LP9) · hello@youssefalouani.com
 
 ---
 
@@ -22,23 +22,23 @@ I build AI that works on real data in production and keeps that data safe. I'm a
 | Period | Role | Company |
 |---|---|---|
 | Jun 2026 – now | Technical Founder | [Osoul](https://osoul.io): Revenue-as-a-Service for fine dining |
-| Feb 2024 – May 2026 | Lead Backend Engineer (founding, team of 9) | Axelerated Solutions (Sowtek AXS) |
-| Jul 2023 – Jan 2024 | Backend Engineer | Finamaze |
-| Dec 2021 – Jul 2023 | Software Engineer | Qalqul Engine |
+| Feb 2024 – May 2026 | Lead Backend Engineer (founding, team of 9) | [Axelerated Solutions](https://www.alouaniyoussef.com/experience/axelerated) (Sowtek AXS) |
+| Jul 2023 – Jan 2024 | Backend Engineer | [Finamaze](https://www.alouaniyoussef.com/experience/finamaze) |
+| Dec 2021 – Jul 2023 | Software Engineer | [Qalqul Engine](https://www.alouaniyoussef.com/experience/qalqul) |
 
-- **Osoul**: AI assistant with PII redaction and user auth propagation, recommendations and meal-completion promos, server-side CAPI ad signals, NFC/QR table sessions, reservations with deposits. Live in venues of Barceló Group and Atlas Group.
-- **Axelerated Solutions**: fine-tuned Whisper large-v3 for Saudi dialect, the Customer Voice RAG pipeline with an MCP server as its retriever, an MCP server over backend APIs validated through Keycloak, and migrations to Kubernetes and hybrid deployments. Shipped to clients including HRSD and Tahreez.
-- **Finamaze**: migrated a robo-advisor from B2C to multi-tenant B2B, with KYC (document and visual verification) and bank reconciliation, for Saudi National Bank.
-- **Qalqul Engine**: NLP/NLU engines on language servers and Duckling, public chatbots and the Botpress v12 core, a stateless real-time platform with task dispatching, SDKs and chat widgets.
+- **[Osoul](https://osoul.io)**: AI assistant with PII redaction and user auth propagation, recommendations and meal-completion promos, server-side CAPI ad signals, NFC/QR table sessions, reservations with deposits. Live in venues of [Barceló Group](https://www.barcelo.com) and [Atlas Group](https://atlashospitality.com).
+- **[Axelerated Solutions](https://www.alouaniyoussef.com/experience/axelerated)**: fine-tuned Whisper large-v3 for Saudi dialect, the Customer Voice RAG pipeline with an MCP server as its retriever, an MCP server over backend APIs validated through Keycloak, and migrations to Kubernetes and hybrid deployments. Shipped to clients including [HRSD](https://www.hrsd.gov.sa) and [Tahreez](https://tahreez.com).
+- **[Finamaze](https://www.alouaniyoussef.com/experience/finamaze)**: migrated a robo-advisor from B2C to multi-tenant B2B, with KYC (document and visual verification) and bank reconciliation, for [Saudi National Bank](https://www.alahli.com).
+- **[Qalqul Engine](https://www.alouaniyoussef.com/experience/qalqul)**: NLP/NLU engines on language servers and Duckling, public chatbots and the Botpress v12 core, a stateless real-time platform with task dispatching, SDKs and chat widgets.
 
 ## Selected work
 
 | Project | What it is | Result |
 |---|---|---|
-| Saudi-dialect speech-to-text | Whisper large-v3 fine-tuned on WhatsApp and Asterisk audio, behind live transcripts and tool-using voice agents | WER **40% → 15%** on a held-out set |
-| Customer Voice | RAG over structured data, documents and customer interactions, with an MCP retriever and auth, privacy and retention built in | **500k** calls processed per month |
-| Osoul platform | Multi-tenant SaaS that turns the data restaurants usually lose into revenue KPIs | **+18%** average ticket, **−25%** no-shows |
-| Finamaze KYC | Investor onboarding with document and visual identity checks, plus reconciliation | **−60%** manual review time per file |
+| [Saudi-dialect speech-to-text](https://www.alouaniyoussef.com/projects/saudi-stt) | Whisper large-v3 fine-tuned on WhatsApp and Asterisk audio, behind live transcripts and tool-using voice agents | WER **40% → 15%** on a held-out set |
+| [Customer Voice](https://www.alouaniyoussef.com/projects/customer-voice) | RAG over structured data, documents and customer interactions, with an MCP retriever and auth, privacy and retention built in | **500k** calls processed per month |
+| [Osoul platform](https://www.alouaniyoussef.com/projects/osoul) | Multi-tenant SaaS that turns the data restaurants usually lose into revenue KPIs | **+18%** average ticket, **−25%** no-shows |
+| [Finamaze KYC](https://www.alouaniyoussef.com/projects/finamaze-kyc) | Investor onboarding with document and visual identity checks, plus reconciliation | **−60%** manual review time per file |
 
 ## Open source
 
@@ -79,7 +79,7 @@ I build AI that works on real data in production and keeps that data safe. I'm a
 - [A Vision about Software Architecture Styles](https://alouani-youssef.medium.com/a-vision-about-software-architcture-styles-3ec0666b692c)
 - [The Philosophy Behind Virtualization and Containerization](https://alouaniyoussef.medium.com/the-philosophy-behind-virtualization-and-containerization-c13866d74ed5)
 
-More on [youssefalouani.com](https://youssefalouani.com) and [Medium](https://medium.com/@alouaniyoussef).
+More on [alouaniyoussef.com](https://www.alouaniyoussef.com/) and [Medium](https://medium.com/@alouaniyoussef).
 
 ---
 
